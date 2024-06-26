@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modules Overview</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Modules Overview</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="modules.html">Modules Overview</a></li>
+                <li><a href="features.html">Detailed Features</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Border Inspection System Web Application</h2>
+            <p>Manage daily duties, plan inspections, and access insights...</p>
+            <!-- More details -->
+        </section>
+        <section>
+            <h2>Border Inspection System Mobile Application</h2>
+            <p>Carry out inspections on the go...</p>
+            <!-- More details -->
+        </section>
+        <section>
+            <h2>Border Inspection System Core</h2>
+            <p>The engine powering BIS with robust services...</p>
+            <!-- More details -->
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Border Inspection System</p>
+    </footer>
+</body>
+</html>

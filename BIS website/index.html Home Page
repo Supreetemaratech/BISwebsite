@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Border Inspection System</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to the Border Inspection System (BIS)</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="modules.html">Modules Overview</a></li>
+                <li><a href="features.html">Detailed Features</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Enhance efficiency, accuracy, and accountability in border inspections with BIS.</h2>
+            <p>Explore our comprehensive web and mobile applications designed to streamline your inspection processes.</p>
+            <a href="modules.html" class="cta">Learn More</a>
+            <a href="contact.html" class="cta">Contact Us</a>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Border Inspection System</p>
+    </footer>
+</body>
+</html>
